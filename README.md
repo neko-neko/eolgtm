@@ -12,7 +12,7 @@ Multi-platform support
 
 Or get the this library
 ```
-$ go get github.com/neko-neko/llgtm
+$ go get github.com/neko-neko/eolgtm
 ```
 Or clone the repository and run
 ```
