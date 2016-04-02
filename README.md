@@ -1,7 +1,7 @@
 # EOLGTM(Easy Output LGTM)
 EOLGTM is outputs the URL for markdown format.
 
-![ScreenShot](http://f.cl.ly/items/3S3h1L2Z061u3y3v250W/eolgtm.gif)
+![](https://cloud.githubusercontent.com/assets/6947393/14224109/7f693a54-f8cb-11e5-9940-60e6f7a5795c.gif)
 ## Installation
 **[Download latest binary](https://github.com/neko-neko/eolgtm/releases/latest)**
 
